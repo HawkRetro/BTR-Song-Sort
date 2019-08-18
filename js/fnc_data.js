@@ -173,5 +173,5 @@ var ary_CharacterData = [
   [1, "Verishuvi -2018 Nendo-",                                                             [0,0,0,0,0,0,0,0,1], "Albums/Life_Iro_Asenai_Hibi_2018.jpg"],
   [1, "Wonderful Journey -2018 Nendo-",                                                     [0,0,0,0,0,0,0,0,1], "Albums/Life_Iro_Asenai_Hibi_2018.jpg"],
   [1, "Yakusoko no Mirai -2018 Nendo-",                                                     [0,0,0,0,0,0,0,0,1], "Albums/Life_Iro_Asenai_Hibi_2018.jpg"],
-  [1, "Yume ni Mukatte -2018 Nendo-",                                                       [0,0,0,0,0,0,0,0,1], "Albums/Life_Iro_Asenai_Hibi_2018.jpg"]
+  [1, "Yume ni Mukatte -2018 Nendo-",                                                       [0,0,0,0,0,0,0,0,1], "Albums/Life_Iro_Asenai_Hibi_2018.jpg"],
 ];
