@@ -73,7 +73,7 @@ var ary_CharacterData = [
   [1, "See you... (Live) -2011 Nendo-",                                                     [0,1,0,0,0,0,0,0,0], "Albums/School_Days_2011.jpg"],
   [1, "Tabidachi no Hi ni -2011 Nendo-",                                                    [0,1,0,0,0,0,0,0,0], "Albums/FRIENDS_2011.jpg"],
   [1, "Tabidachi no Hi ni ~J-MIX~ -2011 Nendo-",                                            [0,1,0,0,0,0,0,0,0], "Albums/Tabidachi_no_Hi_ni_2011.jpg"],
-  [1, "Tenshi to Akuma (Twinklestars) -2011 Nendo-",                                        [0,1,0,0,0,0,0,0,0], "Twinklestars_2011.jpg"],
+  [1, "Tenshi to Akuma (Twinklestars) -2011 Nendo-",                                        [0,1,0,0,0,0,0,0,0], "Albums/Twinklestars_2011.jpg"],
   [1, "Verishuvi -2011 Nendo-",                                                             [0,1,0,0,0,0,0,0,0], "Albums/FRIENDS_2011.jpg"],
   [1, "Yokubari Feuille (Mini-Pati) -2011 Nendo-",                                          [0,1,0,0,0,0,0,0,0], "Albums/FRIENDS_2011.jpg"],
   [1, "Delta (Logica) -2012 Nendo-",                                                        [0,0,1,0,0,0,0,0,0], "Albums/My_Generation_2012.jpg"],
