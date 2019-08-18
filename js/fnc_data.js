@@ -22,7 +22,7 @@ var bln_ResultStyle = 0;
 var bln_ProgessBar = 1;
 
 // Maximum number of result rows before being broken off into another table.
-var maxRows = 35;
+var maxRows = 25;
 
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 9;
